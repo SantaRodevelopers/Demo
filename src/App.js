@@ -10,7 +10,7 @@ function App() {
   return (
     <>
     <Nav />
-    <h1>This button is for main section {1+1} <Button dn={displaynext} /></h1>
+    <h1>This button is for main section {2+3} <Button dn={displaynext} /></h1>
     </>
       
 
